@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Personalizados
+EjemploPractico/ejemplo.txt
