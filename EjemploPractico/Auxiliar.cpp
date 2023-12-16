@@ -7,6 +7,7 @@
 
 #include "Auxiliar.h"
 
+// Función para imprimir un caracter repetitivamente en una línea.
 void imprimirLinea(char caracter, int repeticiones){
     for(int i=0; i<repeticiones; i++)
         cout << caracter;
