@@ -12,6 +12,7 @@ int main(int argc, char** argv) {
     imprimirLinea('=', 50);
     cout << "Mensajes de los asistentes" << endl;
     // COLOCAR AQUÍ LA INVOCACIÓN A SUS FUNCIONES
+    ejercicio_20143258();
     return 0;
 }
 
