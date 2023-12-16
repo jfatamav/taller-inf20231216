@@ -13,6 +13,7 @@
 using namespace std;
 
 void imprimirLinea(char, int);
+void ejercicio_20143258();
 
 #endif /* AUXILIAR_H */
 

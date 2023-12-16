@@ -13,3 +13,7 @@ void imprimirLinea(char caracter, int repeticiones){
         cout << caracter;
     cout << endl;
 }
+
+void ejercicio_20143258(){
+    cout << "Gracias por asistir" << endl;
+}
