@@ -14,6 +14,7 @@ void imprimirLinea(char caracter, int repeticiones){
     cout << endl;
 }
 
-void ejercicio_20143258(){
+// Función de ejemplo
+void ejercicio_201432581(){
     cout << "Gracias por asistir" << endl;
 }
